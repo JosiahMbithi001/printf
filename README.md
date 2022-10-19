@@ -1,3 +1,1 @@
-# printf
-Contributor-Titayi Wambugu
-Contributor-Josiah Mbithi
+The first team project
