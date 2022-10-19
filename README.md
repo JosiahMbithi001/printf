@@ -1,1 +1,1 @@
-The first team project
+The first team project is something else
